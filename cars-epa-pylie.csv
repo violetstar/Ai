@@ -1,0 +1,1209 @@
+make,model,class,drive,transmission,cylinders,engine_displacement,fuel_type,fuel_type_1,city_mpg,highway_mpg,co2,fuel_economy_score,ghg_score
+Acura,ILX,Compact Cars,Front-Wheel Drive,Auto(AM-S8),4,2.4,Premium,Premium Gasoline,25,35,309,7,7
+Acura,MDX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,19,26,404,5,5
+Acura,MDX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,18,26,424,4,4
+Acura,MDX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,20,27,391,5,5
+Acura,MDX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,19,27,404,5,5
+Acura,NSX Hybrid,Two Seaters,All-Wheel Drive,Auto(AM-S9),6,3.5,Premium,Premium Gasoline,21,22,420,4,4
+Acura,RDX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,27,402,5,5
+Acura,RDX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,20,28,386,5,5
+Acura,RLX,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,20,30,380,5,5
+Acura,RLX Hybrid,Midsize Cars,All-Wheel Drive,Auto(AM-S7),6,3.5,Premium,Premium Gasoline,29,30,306,7,7
+Acura,TLX AWD,Compact Cars,All-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,21,31,358,5,5
+Acura,TLX FWD,Compact Cars,Front-Wheel Drive,Auto(AM-S8),4,2.4,Premium,Premium Gasoline,24,35,321,6,6
+Acura,TLX FWD,Compact Cars,Front-Wheel Drive,Automatic (S9),6,3.5,Premium,Premium Gasoline,21,34,358,5,5
+Alfa Romeo,4C,Two Seaters,Rear-Wheel Drive,Auto(AM6),4,1.8,Premium,Premium Gasoline,24,34,317,6,6
+Alfa Romeo,Giulia,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,2.9,Premium,Premium Gasoline,17,24,451,4,4
+Alfa Romeo,Giulia,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,4,2.0,Premium,Premium Gasoline,24,33,330,6,6
+Alfa Romeo,Giulia AWD,Midsize Cars,All-Wheel Drive,Automatic 8-Speed,4,2.0,Premium,Premium Gasoline,23,31,348,6,6
+Aston Martin,Rapide S,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,14,21,533,3,3
+Aston Martin,V12 Vantage S,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6.0,Premium,Premium Gasoline,12,18,624,1,1
+Aston Martin,V12 Vantage S,Two Seaters,Rear-Wheel Drive,Manual(M7),12,6.0,Premium,Premium Gasoline,10,16,724,1,1
+Aston Martin,Vanquish S Zagato,Minicompact Cars,Rear-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,13,21,555,2,2
+Audi,A3,Subcompact Cars,Front-Wheel Drive,Auto(AM-S7),4,2.0,Regular,Regular Gasoline,26,35,303,7,7
+Audi,A3 Cabriolet,Subcompact Cars,Front-Wheel Drive,Auto(AM-S7),4,2.0,Regular,Regular Gasoline,25,34,316,6,6
+Audi,A3 Cabriolet quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,22,30,359,5,5
+Audi,A3 e-tron,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,1.4,Premium and Electricity,Premium Gasoline,33,36,158,10,10
+Audi,A3 quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,24,31,330,6,6
+Audi,A4,Compact Cars,Front-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,25,33,315,6,6
+Audi,A4 allroad quattro,Small Station Wagons,All-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,23,28,349,5,5
+Audi,A4 quattro,Compact Cars,All-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,24,31,330,6,6
+Audi,A4 quattro,Compact Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,24,33,329,6,6
+Audi,A4 Ultra,Compact Cars,Front-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,27,37,284,7,7
+Audi,A5 Cabriolet quattro,Subcompact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium or E85,Premium Gasoline,21,29,372,5,5
+Audi,A5 quattro,Subcompact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium or E85,Premium Gasoline,22,30,359,5,5
+Audi,A5 quattro,Subcompact Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,32,338,6,6
+Audi,A6,Midsize Cars,Front-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,24,34,317,6,6
+Audi,A6 quattro,Midsize Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,29,376,5,5
+Audi,A6 quattro,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,353,5,5
+Audi,A7 quattro,Midsize Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,29,376,5,5
+Audi,A8 L,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,29,397,5,5
+Audi,A8 L,Large Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,18,29,410,5,5
+Audi,Q3,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,20,28,391,5,5
+Audi,Q3 quattro,Compact Cars,All-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,20,28,387,5,5
+Audi,Q5,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium or E85,Premium Gasoline,20,27,395,5,5
+Audi,Q5,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,26,429,4,4
+Audi,Q7,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,25,419,4,4
+Audi,Q7,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,25,406,5,5
+Audi,R8,Two Seaters,All-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,22,519,3,3
+Audi,R8 Spyder,Two Seaters,All-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,22,519,3,3
+Audi,RS 7,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,15,25,497,3,3
+Audi,S3,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Premium,Premium Gasoline,21,28,373,5,5
+Audi,S5,Subcompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,18,28,413,4,4
+Audi,S5,Subcompact Cars,All-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,17,26,439,4,4
+Audi,S5 Cabriolet,Subcompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,18,26,428,4,4
+Audi,S6,Midsize Cars,All-Wheel Drive,Auto(AM-S7),8,4.0,Premium,Premium Gasoline,18,27,423,4,4
+Audi,S7,Midsize Cars,All-Wheel Drive,Auto(AM-S7),8,4.0,Premium,Premium Gasoline,17,27,427,4,4
+Audi,S8,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,15,24,501,3,3
+Audi,SQ5,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,17,24,458,4,4
+Audi,TT Coupe quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,23,30,336,6,6
+Audi,TT Roadster quattro,Two Seaters,All-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,23,30,336,6,6
+Audi,TTS Coupe,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Premium,Premium Gasoline,23,27,358,5,5
+Bentley,Bentayga,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,12,19,596,2,2
+Bentley,Continental GT,Compact Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,15,25,475,4,4
+Bentley,Continental GT,Compact Cars,All-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,12,21,580,2,2
+Bentley,Continental GT Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,14,24,517,3,3
+Bentley,Continental GT Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,12,20,604,2,2
+Bentley,Flying Spur,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.0,Premium,Premium Gasoline,14,24,517,3,3
+Bentley,Flying Spur,Midsize Cars,All-Wheel Drive,Automatic (S8),12,6.0,Premium,Premium Gasoline,12,20,604,2,2
+Bentley,Mulsanne,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,6.8,Premium,Premium Gasoline,11,18,652,1,1
+Bentley,Mulsanne EWB,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,6.8,Premium,Premium Gasoline,11,17,692,1,1
+BMW,230i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,324,6,6
+BMW,230i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,24,35,318,6,6
+BMW,230i Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,32,360,5,5
+BMW,230i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,230i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,24,33,325,6,6
+BMW,320i,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,35,323,6,6
+BMW,320i,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,35,325,6,6
+BMW,320i xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,332,6,6
+BMW,328d,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,31,43,285,8,7
+BMW,328d xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,30,40,303,8,7
+BMW,328d xDrive Sports Wagon,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,30,40,303,8,7
+BMW,330e,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium and Electricity,Premium Gasoline,28,34,189,9,10
+BMW,330i,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,324,6,6
+BMW,330i,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,32,360,5,5
+BMW,330i xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,330i xDrive Gran Turismo,Large Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,330i xDrive Sports Wagon,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,340i,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,32,358,5,5
+BMW,340i,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,29,395,5,5
+BMW,340i xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,31,357,5,5
+BMW,340i xDrive,Compact Cars,All-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,29,391,5,5
+BMW,340i xDrive Gran Turismo,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,30,374,5,5
+BMW,430i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,324,6,6
+BMW,430i Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,324,6,6
+BMW,430i Coupe,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,33,351,5,5
+BMW,430i Gran Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,324,6,6
+BMW,430i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,343,6,6
+BMW,430i xDrive Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,430i xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,335,6,6
+BMW,440i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,29,372,5,5
+BMW,440i Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,32,358,5,5
+BMW,440i Coupe,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,29,395,5,5
+BMW,440i Gran Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,32,358,5,5
+BMW,440i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,30,374,5,5
+BMW,440i xDrive Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,31,357,5,5
+BMW,440i xDrive Coupe,Compact Cars,All-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,29,391,5,5
+BMW,440i xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,31,357,5,5
+BMW,535i Gran Turismo,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,27,405,5,5
+BMW,535i xDrive Gran Turismo,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,26,419,4,4
+BMW,550i xDrive Gran Turismo,Large Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,24,486,3,3
+BMW,640i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,29,377,5,5
+BMW,640i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,30,368,5,5
+BMW,640i Gran Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,29,377,5,5
+BMW,640i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,28,398,5,5
+BMW,640i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,28,398,5,5
+BMW,640i xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,28,398,5,5
+BMW,650i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,17,24,459,4,4
+BMW,650i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,17,24,459,4,4
+BMW,650i Gran Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,17,24,459,4,4
+BMW,650i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,24,486,3,3
+BMW,650i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,16,24,470,4,4
+BMW,650i xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,24,486,3,3
+BMW,740e xDrive,Large Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium and Electricity,Premium Gasoline,25,29,214,8,9
+BMW,740i,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,29,372,5,5
+BMW,740i xDrive,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,28,397,5,5
+BMW,750i,Large Cars,Rear-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,17,26,441,4,4
+BMW,750i xDrive,Large Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,16,25,459,4,4
+BMW,Alpina B6 xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,24,486,3,3
+BMW,Alpina B7 xDrive,Large Cars,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,16,24,481,3,3
+BMW,i8,Subcompact Cars,All-Wheel Drive,Automatic 6-Speed,3,1.5,Premium and Electricity,Premium Gasoline,28,29,199,8,10
+BMW,M2,Subcompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,26,395,5,5
+BMW,M2,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,18,26,430,4,4
+BMW,M240i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,32,358,5,5
+BMW,M240i Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,29,395,5,5
+BMW,M240i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,32,358,5,5
+BMW,M240i Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,19,28,401,5,5
+BMW,M240i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,31,357,5,5
+BMW,M240i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,31,357,5,5
+BMW,M3,Compact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,17,24,459,4,4
+BMW,M3,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,17,26,438,4,4
+BMW,M4 Convertible,Subcompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,17,24,455,4,4
+BMW,M4 Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,17,26,438,4,4
+BMW,M4 Coupe,Compact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,17,24,459,4,4
+BMW,M4 Coupe,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,17,26,438,4,4
+BMW,M6 Convertible,Subcompact Cars,Rear-Wheel Drive,Auto(AM-S7),8,4.4,Premium,Premium Gasoline,14,20,553,2,2
+BMW,M6 Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,4.4,Premium,Premium Gasoline,15,22,519,3,3
+BMW,M6 Coupe,Subcompact Cars,Rear-Wheel Drive,Auto(AM-S7),8,4.4,Premium,Premium Gasoline,14,20,553,2,2
+BMW,M6 Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,4.4,Premium,Premium Gasoline,15,22,519,3,3
+BMW,M6 Gran Coupe,Compact Cars,Rear-Wheel Drive,Auto(AM-S7),8,4.4,Premium,Premium Gasoline,14,20,553,2,2
+BMW,M6 Gran Coupe,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,8,4.4,Premium,Premium Gasoline,15,22,519,3,3
+BMW,M760i xDrive,Large Cars,All-Wheel Drive,Automatic (S8),12,6.6,Premium,Premium Gasoline,13,20,571,2,2
+BMW,X1 sDrive28i,Large Cars,Front-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,32,337,6,6
+BMW,X1 xDrive28i,Large Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,349,5,5
+BMW,X3 sDrive28i,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,21,28,374,5,5
+BMW,X3 xDrive28i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,21,28,374,5,5
+BMW,X3 xDrive35i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,26,418,4,4
+BMW,X4 M40i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,26,418,4,4
+BMW,X4 xDrive28i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,27,389,5,5
+BMW,X5 M,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,14,19,549,2,2
+BMW,X5 sDrive35i,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,25,426,4,4
+BMW,X5 xDrive 35d,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Diesel,Diesel,23,29,401,5,5
+BMW,X5 xDrive35i,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,24,434,4,4
+BMW,X5 xDrive40e,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium and Electricity,Premium Gasoline,23,25,248,7,8
+BMW,X5 xDrive50i,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,21,515,3,3
+BMW,X6 M,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,14,19,549,2,2
+BMW,X6 sDrive35i,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,25,426,4,4
+BMW,X6 xDrive35i,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,24,434,4,4
+BMW,X6 xDrive50i,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.4,Premium,Premium Gasoline,15,21,515,3,3
+Buick,Cascada,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),4,1.6,Premium,Premium Gasoline,20,27,395,5,5
+Buick,Enclave AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,518,3,3
+Buick,Enclave FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,507,3,3
+Buick,Encore,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,25,33,313,6,6
+Buick,Encore,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,27,33,298,7,7
+Buick,Encore AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,24,30,334,6,6
+Buick,Encore AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,26,31,315,6,6
+Buick,Envision AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,21,28,373,5,5
+Buick,Envision AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.0,Premium,Premium Gasoline,20,26,399,5,5
+Buick,Envision FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,22,29,356,5,5
+Buick,LaCrosse,Midsize Cars,Front-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,21,31,360,5,5
+Buick,LaCrosse AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,20,29,378,5,5
+Buick,Regal,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,21,29,374,5,5
+Buick,Regal,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,19,30,385,5,5
+Buick,Regal AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,19,27,402,5,5
+Buick,Verano,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,31,364,5,5
+Cadillac,ATS,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,20,30,376,5,5
+Cadillac,ATS,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,349,5,5
+Cadillac,ATS,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.5,Regular,Regular Gasoline,22,32,347,6,6
+Cadillac,ATS,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,20,29,379,5,5
+Cadillac,ATS AWD,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,19,27,399,5,5
+Cadillac,ATS AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,30,358,5,5
+Cadillac,ATS-V,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,17,25,449,4,4
+Cadillac,ATS-V,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.6,Premium,Premium Gasoline,16,23,475,4,4
+Cadillac,CT6,Large Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,30,359,5,5
+Cadillac,CT6 AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,18,27,417,4,4
+Cadillac,CT6 AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,26,424,4,4
+Cadillac,CTS,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,20,30,376,5,5
+Cadillac,CTS,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,30,359,5,5
+Cadillac,CTS,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,16,24,481,3,3
+Cadillac,CTS AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,19,27,399,5,5
+Cadillac,CTS AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,21,29,368,5,5
+Cadillac,CTS-V,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,6.2,Premium,Premium Gasoline,14,21,530,3,3
+Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,22,512,3,3
+Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,20,533,3,3
+Cadillac,XT5,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,19,27,395,5,5
+Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,18,26,419,4,4
+Cadillac,XTS,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,18,28,412,5,5
+Cadillac,XTS AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,17,26,439,4,4
+Cadillac,XTS AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,16,23,486,3,3
+Cadillac,XTS Hearse,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,15,21,525,3,3
+Cadillac,XTS LIMO,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,15,21,525,3,3
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic (S10),8,6.2,Premium,Premium Gasoline,12,20,591,2,2
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,19,28,398,5,5
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,357,5,5
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),8,6.2,Premium,Premium Gasoline,17,27,442,4,4
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,Premium,Premium Gasoline,16,25,457,4,4
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,20,30,380,5,5
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.6,Regular,Regular Gasoline,16,28,442,4,4
+Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,Premium,Premium Gasoline,14,20,560,2,2
+Chevrolet,City Express Cargo Van,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,24,26,354,5,5
+Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,20,26,405,5,5
+Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.8,Diesel,Diesel,22,30,411,5,5
+Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,25,440,4,4
+Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,19,26,408,5,5
+Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,19,24,423,4,4
+Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.8,Diesel,Diesel,20,28,449,5,4
+Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,17,24,461,4,4
+Chevrolet,Colorado Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,15,17,547,2,2
+Chevrolet,Corvette,Two Seaters,Rear-Wheel Drive,Automatic (S8),8,6.2,Premium,Premium Gasoline,15,26,477,4,4
+Chevrolet,Corvette,Two Seaters,Rear-Wheel Drive,Automatic (S8),8,6.2,Premium,Premium Gasoline,13,23,540,2,2
+Chevrolet,Corvette,Two Seaters,Rear-Wheel Drive,Manual 7-Speed,8,6.2,Premium,Premium Gasoline,16,25,465,4,4
+Chevrolet,Corvette,Two Seaters,Rear-Wheel Drive,Manual 7-Speed,8,6.2,Premium,Premium Gasoline,15,22,503,3,3
+Chevrolet,Cruze,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,30,40,265,8,8
+Chevrolet,Cruze,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.4,Regular,Regular Gasoline,28,39,274,7,7
+Chevrolet,Cruze Hatchback,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,29,38,278,7,7
+Chevrolet,Cruze Hatchback,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.4,Regular,Regular Gasoline,28,37,286,7,7
+Chevrolet,Cruze Premier,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,29,39,269,8,8
+Chevrolet,Cruze Premier Hatchback,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,28,37,287,7,7
+Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,20,28,381,5,5
+Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,16,23,489,3,3
+Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.4,Gasoline or E85,Regular Gasoline,20,28,381,5,5
+Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,21,31,355,5,5
+Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,17,24,444,4,4
+Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Gasoline or E85,Regular Gasoline,21,31,355,5,5
+Chevrolet,Express 2500 2WD Passenger,"Vans, Passenger Type",Rear-Wheel Drive,Automatic 6-Speed,8,6.0,Regular,Regular Gasoline,11,16,704,1,1
+Chevrolet,Express 3500 2WD Passenger,"Vans, Passenger Type",Rear-Wheel Drive,Automatic 6-Speed,8,6.0,Regular,Regular Gasoline,11,16,716,1,1
+Chevrolet,Impala,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,22,30,360,5,5
+Chevrolet,Impala,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,18,28,408,5,5
+Chevrolet,Impala,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.6,Gasoline or E85,Regular Gasoline,19,28,401,5,5
+Chevrolet,Malibu,Midsize Cars,Front-Wheel Drive,Automatic 6-Speed,4,1.5,Regular,Regular Gasoline,27,36,293,7,7
+Chevrolet,Malibu,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,22,33,342,6,6
+Chevrolet,Malibu Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,49,43,194,10,10
+Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,18,24,447,4,4
+Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,16,21,488,3,3
+Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,479,4,4
+Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,6,4.3,Gasoline or E85,Regular Gasoline,18,24,448,4,4
+Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,475,4,4
+Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,21,522,3,3
+Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,16,22,497,3,3
+Chevrolet,Silverado C15 Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,20,523,3,3
+Chevrolet,Silverado K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,22,495,3,3
+Chevrolet,Silverado K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,22,491,3,3
+Chevrolet,Silverado K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,6,4.3,Gasoline or E85,Regular Gasoline,17,22,473,4,4
+Chevrolet,Silverado K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,20,531,3,3
+Chevrolet,Silverado K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,15,20,533,3,3
+Chevrolet,Silverado K15 Cab Chassis 4WD,Special Purpose Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,19,523,3,3
+Chevrolet,Sonic,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,34,317,6,6
+Chevrolet,Sonic,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,27,36,295,7,7
+Chevrolet,Sonic,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.8,Regular,Regular Gasoline,25,33,312,6,6
+Chevrolet,Sonic,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.4,Regular,Regular Gasoline,28,38,281,7,7
+Chevrolet,Sonic 5,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,34,317,6,6
+Chevrolet,Sonic 5,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,27,36,295,7,7
+Chevrolet,Sonic 5,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4,1.8,Regular,Regular Gasoline,25,33,312,6,6
+Chevrolet,Sonic 5,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.4,Regular,Regular Gasoline,28,38,281,7,7
+Chevrolet,Spark,Subcompact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.4,Regular,Regular Gasoline,30,38,268,8,8
+Chevrolet,Spark,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Regular,Regular Gasoline,29,38,271,8,8
+Chevrolet,Spark ACTIV,Subcompact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.4,Regular,Regular Gasoline,30,37,269,8,8
+Chevrolet,Spark ACTIV,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Regular,Regular Gasoline,29,37,278,7,7
+Chevrolet,SS,Large Cars,Rear-Wheel Drive,Automatic (S6),8,6.2,Premium,Premium Gasoline,14,22,544,2,2
+Chevrolet,SS,Large Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,Premium,Premium Gasoline,14,22,520,3,3
+Chevrolet,Suburban C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,477,4,4
+Chevrolet,Suburban C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,477,4,4
+Chevrolet,Suburban K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,22,502,3,3
+Chevrolet,Suburban K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,15,22,502,3,3
+Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,477,4,4
+Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,477,4,4
+Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,22,497,3,3
+Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,22,497,3,3
+Chevrolet,Traverse AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,518,3,3
+Chevrolet,Traverse FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,507,3,3
+Chevrolet,Trax,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,25,33,313,6,6
+Chevrolet,Trax AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,24,30,334,6,6
+Chevrolet,Volt,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular Gas or Electricity,Regular Gasoline,43,42,51,10,10
+Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,23,36,323,6,6
+Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Gasoline or E85,Regular Gasoline,23,36,323,6,6
+Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,6,3.6,Gasoline or E85,Regular Gasoline,19,31,388,5,5
+Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,19,30,389,5,5
+Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,16,25,466,4,4
+Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,19,30,389,5,5
+Chrysler,200 AWD,Midsize Cars,All-Wheel Drive,Automatic 9-Speed,6,3.6,Gasoline or E85,Regular Gasoline,18,28,405,5,5
+Chrysler,300 AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,27,415,4,4
+Chrysler,300 AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,18,27,415,4,4
+Chrysler,Pacifica,Minivan - 2WD,Front-Wheel Drive,Automatic 9-Speed,6,3.6,Regular,Regular Gasoline,18,28,416,5,5
+Chrysler,Pacifica,Minivan - 2WD,Front-Wheel Drive,Automatic 9-Speed,6,3.6,Regular,Regular Gasoline,19,28,401,5,5
+Chrysler,Pacifica Plug-in Hybrid,Minivan - 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.6,Regular Gas and Electricity,Regular Gasoline,32,33,106,10,10
+Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,19,30,389,5,5
+Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,16,25,466,4,4
+Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,Premium,Premium Gasoline,15,25,486,3,3
+Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.7,Premium,Premium Gasoline,15,23,494,3,3
+Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.4,Premium,Premium Gasoline,14,23,523,3,3
+Dodge,Challenger GT,Midsize Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,27,415,4,4
+Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Premium,Premium Gasoline,13,22,546,2,2
+Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,Premium,Premium Gasoline,15,25,486,3,3
+Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,Premium,Premium Gasoline,13,21,567,2,2
+Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.4,Premium,Premium Gasoline,14,23,523,3,3
+Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,19,30,389,5,5
+Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,16,25,466,4,4
+Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,Premium,Premium Gasoline,15,25,486,3,3
+Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,19,30,389,5,5
+Dodge,Charger AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,27,415,4,4
+Dodge,Charger AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,18,27,415,4,4
+Dodge,Charger SRT,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Premium,Premium Gasoline,13,22,546,2,2
+Dodge,Charger SRT,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,Premium,Premium Gasoline,15,25,486,3,3
+Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,25,427,4,4
+Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,14,22,523,3,3
+Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,14,22,525,3,3
+Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,19,26,414,4,4
+Dodge,Grand Caravan,Minivan - 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,17,25,445,4,4
+Dodge,Grand Caravan,Minivan - 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Gasoline or E85,Regular Gasoline,17,25,445,4,4
+Dodge,Journey,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 4-Speed,4,2.4,Regular,Regular Gasoline,19,25,420,4,4
+Dodge,Journey,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Gasoline or E85,Regular Gasoline,17,25,456,4,4
+Dodge,Journey AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,16,24,470,4,4
+Dodge,Viper,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,10,8.4,Premium,Premium Gasoline,12,19,623,1,1
+Ferrari,488 GTB,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,15,22,501,3,3
+Ferrari,488 GTB,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,16,22,495,3,3
+Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,15,22,501,3,3
+Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,16,22,495,3,3
+Ferrari,California T,Minicompact Cars,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,16,23,487,3,3
+Ferrari,California T,Minicompact Cars,Rear-Wheel Drive,Auto(AM7),8,3.9,Premium,Premium Gasoline,16,23,478,4,4
+Ferrari,F12 Berlinetta,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,12,16,672,1,1
+Ferrari,F12 Berlinetta,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,12,16,662,1,1
+Ferrari,F12 tdf,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,11,15,711,1,1
+Ferrari,F12 tdf,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,11,15,697,1,1
+Ferrari,GTC4Lusso,Minicompact Cars,Part-time 4-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,11,17,674,1,1
+Ferrari,GTC4Lusso,Minicompact Cars,Part-time 4-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,12,17,661,1,1
+Ferrari,LaFerrari Aperta,Two Seaters,Part-time 4-Wheel Drive,Auto(AM7),12,6.3,Premium,Premium Gasoline,12,15,683,1,1
+Fiat,500,Minicompact Cars,Front-Wheel Drive,Automatic 6-Speed,4,1.4,Premium,Premium Gasoline,27,33,300,7,7
+Fiat,500,Minicompact Cars,Front-Wheel Drive,Automatic 6-Speed,4,1.4,Premium,Premium Gasoline,24,32,326,6,6
+Fiat,500,Minicompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Premium,Premium Gasoline,31,38,264,8,8
+Fiat,500,Minicompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Premium,Premium Gasoline,28,33,299,7,7
+Fiat,124 Spider,Two Seaters,Rear-Wheel Drive,Automatic 6-Speed,4,1.4,Premium,Premium Gasoline,25,36,302,7,7
+Fiat,124 Spider,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,4,1.4,Premium,Premium Gasoline,26,35,298,7,7
+Fiat,500 Abarth,Minicompact Cars,Front-Wheel Drive,Automatic 6-Speed,4,1.4,Premium,Premium Gasoline,24,32,326,6,6
+Fiat,500 Abarth,Minicompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Premium,Premium Gasoline,28,33,299,7,7
+Fiat,500 L,Small Station Wagons,Front-Wheel Drive,Automatic 6-Speed,4,1.4,Premium,Premium Gasoline,22,30,356,5,5
+Fiat,500 X,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,22,30,353,5,5
+Fiat,500 X,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 6-Speed,4,1.4,Premium,Premium Gasoline,25,33,317,6,6
+Fiat,500 X AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,29,364,5,5
+Ford,C-MAX Energi Plug-In Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular Gas and Electricity,Regular Gasoline,41,38,122,10,10
+Ford,C-MAX Hybrid FWD,Large Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,42,38,222,9,9
+Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,27,393,5,5
+Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,17,24,457,4,4
+Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,17,24,454,4,4
+Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,29,370,5,5
+Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,29,370,5,5
+Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,17,26,435,4,4
+Ford,Escape AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,27,386,5,5
+Ford,Escape AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,1.5,Regular,Regular Gasoline,22,28,370,5,5
+Ford,Escape FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,21,29,369,5,5
+Ford,Escape FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,1.5,Regular,Regular Gasoline,23,30,342,6,6
+Ford,Escape FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,22,29,357,5,5
+Ford,Escape FWD FFV,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Gasoline or E85,Regular Gasoline,21,29,369,5,5
+Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,21,507,3,3
+Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,20,537,3,3
+Ford,Expedition EL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,20,535,3,3
+Ford,Expedition EL 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,19,543,2,2
+Ford,Explorer 2WD FFV,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,Gasoline or E85,Regular Gasoline,17,24,452,4,4
+Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,18,25,430,4,4
+Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,16,23,475,4,4
+Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,16,22,494,3,3
+Ford,Explorer AWD FFV,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Gasoline or E85,Regular Gasoline,16,23,475,4,4
+Ford,Explorer FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,19,27,408,5,5
+Ford,Explorer FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,17,24,452,4,4
+Ford,F150 2.7L 2WD GVWR>6649 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,18,24,423,4,4
+Ford,F150 2.7L 4WD GVWR>6649 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,18,22,467,4,4
+Ford,F150 2WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,18,23,444,4,4
+Ford,F150 2WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,19,24,423,4,4
+Ford,F150 3.5L 2WD GVWR>7599 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,17,22,466,4,4
+Ford,F150 3.5L 4WD GVWR>7599 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,17,21,466,4,4
+Ford,F150 4WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,17,22,467,4,4
+Ford,F150 4WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,17,21,467,4,4
+Ford,F150 4WD FFV BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.0,Gasoline or E85,Regular Gasoline,15,20,521,3,3
+Ford,F150 5.0L 2WD FFV GVWR>7599 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.0,Gasoline or E85,Regular Gasoline,14,20,555,2,2
+Ford,F150 5.0L 4WD FFV GVWR>7599 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.0,Gasoline or E85,Regular Gasoline,14,19,555,2,2
+Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,18,25,426,4,4
+Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,19,26,411,5,5
+Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.0,Gasoline or E85,Regular Gasoline,15,22,501,3,3
+Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,6,3.5,Gasoline or E85,Regular Gasoline,18,24,437,4,4
+Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,17,23,453,4,4
+Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,18,23,452,4,4
+Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.0,Gasoline or E85,Regular Gasoline,15,21,520,3,3
+Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 6-Speed,6,3.5,Gasoline or E85,Regular Gasoline,17,23,465,4,4
+Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,Regular,Regular Gasoline,15,18,546,2,2
+Ford,Fiesta FWD,Subcompact Cars,Front-Wheel Drive,Auto(AM-S6),4,1.6,Regular,Regular Gasoline,27,37,286,7,7
+Ford,Fiesta FWD,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.6,Regular,Regular Gasoline,27,35,293,7,7
+Ford,Fiesta SFE FWD,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,3,1.0,Regular,Regular Gasoline,31,41,254,8,8
+Ford,Fiesta ST FWD,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,26,33,308,7,7
+Ford,Flex AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,16,22,491,3,3
+Ford,Flex AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,21,523,3,3
+Ford,Flex FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,16,23,468,4,4
+Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,26,36,303,7,7
+Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular,Regular Gasoline,26,38,289,7,7
+Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Automatic (S6),3,1.0,Regular,Regular Gasoline,27,38,284,7,7
+Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,25,34,314,6,6
+Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Manual 6-Speed,3,1.0,Regular,Regular Gasoline,30,40,264,8,8
+Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Gasoline or E85,Regular Gasoline,26,36,303,7,7
+Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Gasoline or E85,Regular Gasoline,26,38,289,7,7
+Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2.0,Gasoline or E85,Regular Gasoline,25,34,314,6,6
+Ford,Focus RS AWD,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,2.3,Premium,Premium Gasoline,19,25,412,5,5
+Ford,Focus ST FWD,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,22,30,356,5,5
+Ford,Fusion AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,29,386,5,5
+Ford,Fusion AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,17,26,444,4,4
+Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular Gas and Electricity,Regular Gasoline,43,41,112,10,10
+Ford,Fusion FWD,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Regular,Regular Gasoline,23,34,328,6,6
+Ford,Fusion FWD,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,31,362,5,5
+Ford,Fusion FWD,Midsize Cars,Front-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,21,32,361,5,5
+Ford,Fusion Hybrid FWD,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,43,41,210,9,9
+Ford,GT,Two Seaters,Rear-Wheel Drive,Auto(AM7),6,3.5,Premium,Premium Gasoline,11,18,654,1,1
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,21,30,370,5,5
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,18,27,423,4,4
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),8,5.0,Regular,Regular Gasoline,15,24,493,3,3
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.3,Regular,Regular Gasoline,21,30,370,5,5
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.7,Regular,Regular Gasoline,18,27,428,4,4
+Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.0,Regular,Regular Gasoline,15,25,494,3,3
+Ford,Mustang Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,20,28,386,5,5
+Ford,Mustang Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),8,5.0,Regular,Regular Gasoline,15,23,492,3,3
+Ford,Mustang Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.3,Regular,Regular Gasoline,21,27,386,5,5
+Ford,Mustang Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.0,Regular,Regular Gasoline,14,23,523,3,3
+Ford,Mustang Performance Package,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,20,28,386,5,5
+Ford,Mustang Performance Package,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.3,Regular,Regular Gasoline,21,28,370,5,5
+Ford,Mustang Performance Package,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.0,Regular,Regular Gasoline,14,23,523,3,3
+Ford,Shelby GT350 Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.2,Premium,Premium Gasoline,14,21,549,2,2
+Ford,Taurus AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,17,24,467,4,4
+Ford,Taurus AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,16,24,468,4,4
+Ford,Taurus AWD FFV,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,Gasoline or E85,Regular Gasoline,17,24,467,4,4
+Ford,Taurus FWD,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,29,386,5,5
+Ford,Taurus FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,18,27,423,4,4
+Ford,Taurus FWD FFV,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Gasoline or E85,Regular Gasoline,18,27,423,4,4
+Ford,Transit Connect Van 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,20,27,392,5,5
+Ford,Transit Connect Van FFV,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Gasoline or E85,Regular Gasoline,20,27,392,5,5
+Ford,Transit Connect Wagon FFV,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Gasoline or E85,Regular Gasoline,19,27,401,5,5
+Ford,Transit Connect Wagon FWD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,19,27,407,5,5
+Ford,Transit Connect Wagon LWB FFV,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Gasoline or E85,Regular Gasoline,19,27,407,5,5
+Ford,Transit Connect Wagon LWB FWD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,19,27,407,5,5
+Ford,Transit T150 Wagon,"Vans, Passenger Type",Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,19,552,2,2
+Ford,Transit T150 Wagon FFV,"Vans, Passenger Type",Rear-Wheel Drive,Automatic (S6),6,3.7,Gasoline or E85,Regular Gasoline,14,18,570,2,2
+Genesis,G80 AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.8,Regular,Regular Gasoline,16,25,459,4,4
+Genesis,G80 RWD,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.8,Regular,Regular Gasoline,18,28,411,5,5
+Genesis,G80 RWD,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,502,3,3
+Genesis,G90 AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.3,Premium,Premium Gasoline,17,24,448,4,4
+Genesis,G90 AWD,Large Cars,All-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,493,3,3
+Genesis,G90 RWD,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.3,Premium,Premium Gasoline,17,24,454,4,4
+Genesis,G90 RWD,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,16,24,482,4,4
+GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,21,25,392,5,5
+GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,18,25,437,4,4
+GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,21,26,386,5,5
+GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,18,25,426,4,4
+GMC,Acadia Limited AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,518,3,3
+GMC,Acadia Limited FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,15,22,507,3,3
+GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,20,26,405,5,5
+GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.8,Diesel,Diesel,22,30,411,5,5
+GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,25,440,4,4
+GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,19,26,408,5,5
+GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.5,Regular,Regular Gasoline,19,24,423,4,4
+GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.8,Diesel,Diesel,20,28,449,5,4
+GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,17,24,461,4,4
+GMC,Canyon Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,15,17,547,2,2
+GMC,Savana 2500 2WD (Passenger),"Vans, Passenger Type",Rear-Wheel Drive,Automatic 6-Speed,8,6.0,Regular,Regular Gasoline,11,16,704,1,1
+GMC,Savana 3500 2WD (Passenger),"Vans, Passenger Type",Rear-Wheel Drive,Automatic 6-Speed,8,6.0,Regular,Regular Gasoline,11,16,716,1,1
+GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,18,24,447,4,4
+GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,16,21,488,3,3
+GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,479,4,4
+GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,6,4.3,Gasoline or E85,Regular Gasoline,18,24,448,4,4
+GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,475,4,4
+GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,21,523,3,3
+GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,16,22,497,3,3
+GMC,Sierra C15 Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,20,523,3,3
+GMC,Sierra K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,22,494,3,3
+GMC,Sierra K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,22,492,3,3
+GMC,Sierra K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,6,4.3,Gasoline or E85,Regular Gasoline,17,22,474,4,4
+GMC,Sierra K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,20,531,3,3
+GMC,Sierra K15 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,5.3,Regular,Regular Gasoline,15,20,533,3,3
+GMC,Sierra K15 Cab Chassis 4WD,Special Purpose Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,19,523,3,3
+GMC,Terrain AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,20,28,381,5,5
+GMC,Terrain AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,16,23,489,3,3
+GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,21,31,355,5,5
+GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.6,Regular,Regular Gasoline,17,24,444,4,4
+GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Gasoline or E85,Regular Gasoline,21,31,355,5,5
+GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,477,4,4
+GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,477,4,4
+GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,22,512,3,3
+GMC,Yukon C1500 XL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,23,477,4,4
+GMC,Yukon C1500 XL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,23,477,4,4
+GMC,Yukon C1500 XL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,22,512,3,3
+GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,16,22,497,3,3
+GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,16,22,497,3,3
+GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,15,20,531,3,3
+GMC,Yukon K1500 XL 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Regular,Regular Gasoline,15,22,502,3,3
+GMC,Yukon K1500 XL 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.3,Gasoline or E85,Regular Gasoline,15,22,502,3,3
+GMC,Yukon K1500 XL 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-Speed,8,6.2,Regular,Regular Gasoline,14,20,553,2,2
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,2.4,Regular,Regular Gasoline,26,34,303,7,7
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,21,32,362,5,5
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.4,Regular,Regular Gasoline,27,36,292,7,7
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,21,33,350,5,5
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,6,3.5,Regular,Regular Gasoline,18,28,414,4,4
+Honda,Accord,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.4,Regular,Regular Gasoline,23,32,334,6,6
+Honda,Accord Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,49,47,183,10,10
+Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,30,39,262,8,8
+Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,31,40,256,8,8
+Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,28,39,278,7,7
+Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,30,41,258,8,8
+Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,31,40,257,8,8
+Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,32,42,248,8,8
+Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,28,40,273,7,7
+Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,31,42,251,8,8
+Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,31,40,260,8,8
+Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,30,39,264,8,8
+Honda,Civic 5Dr Sport,Large Cars,Front-Wheel Drive,Auto(AV-S7),4,1.5,Premium,Premium Gasoline,30,36,274,7,7
+Honda,Civic 5Dr Sport,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,30,39,264,8,8
+Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,2.4,Regular,Regular Gasoline,25,31,328,6,6
+Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,27,33,303,7,7
+Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.4,Regular,Regular Gasoline,26,32,312,6,6
+Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,28,34,292,7,7
+Honda,Fit,Small Station Wagons,Front-Wheel Drive,Auto(AV-S7),4,1.5,Regular,Regular Gasoline,32,37,260,8,8
+Honda,Fit,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,33,40,247,8,8
+Honda,Fit,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,29,36,281,7,7
+Honda,HR-V AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,1.8,Regular,Regular Gasoline,27,31,314,7,7
+Honda,HR-V AWD,Small Station Wagons,All-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,27,31,314,7,7
+Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Auto(AV-S7),4,1.8,Regular,Regular Gasoline,28,34,289,7,7
+Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,28,34,289,7,7
+Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,25,33,314,6,6
+Honda,Odyssey,Minivan - 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,19,27,404,5,5
+Honda,Pilot AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),6,3.5,Regular,Regular Gasoline,19,26,407,5,5
+Honda,Pilot AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,18,26,421,4,4
+Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),6,3.5,Regular,Regular Gasoline,20,27,388,5,5
+Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,19,27,405,5,5
+Honda,Ridgeline AWD,Standard Pickup Trucks 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,18,25,424,4,4
+Honda,Ridgeline FWD,Small Pickup Trucks 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.5,Regular,Regular Gasoline,19,26,410,5,5
+Hyundai,Accent,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.6,Regular,Regular Gasoline,26,36,295,7,7
+Hyundai,Accent,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,27,37,282,7,7
+Hyundai,Azera,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,20,28,391,5,5
+Hyundai,Azera Limited,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,19,28,404,5,5
+Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Auto(AM7),4,1.4,Regular,Regular Gasoline,32,40,256,8,8
+Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,26,33,305,7,7
+Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,28,37,282,7,7
+Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,26,36,301,7,7
+Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,22,30,356,5,5
+Hyundai,Elantra GT,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,24,32,331,6,6
+Hyundai,Elantra GT,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,24,32,329,6,6
+Hyundai,Elantra SE,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,29,38,272,8,8
+Hyundai,Ioniq,Large Cars,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,55,54,163,10,10
+Hyundai,Ioniq Blue,Large Cars,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,57,59,154,10,10
+Hyundai,Santa Fe AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,24,433,4,4
+Hyundai,Santa Fe FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,25,427,4,4
+Hyundai,Santa Fe Sport AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,19,26,410,5,5
+Hyundai,Santa Fe Sport AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,20,26,406,5,5
+Hyundai,Santa Fe Sport FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,28,388,5,5
+Hyundai,Santa Fe Sport FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,27,379,5,5
+Hyundai,Santa Fe Sport Ultimate AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,19,24,425,4,4
+Hyundai,Santa Fe Sport Ultimate FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,27,396,5,5
+Hyundai,Santa Fe Ultimate AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,17,22,475,4,4
+Hyundai,Santa Fe Ultimate FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,17,23,457,4,4
+Hyundai,Sonata,Large Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,28,36,286,7,7
+Hyundai,Sonata,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,25,36,307,7,7
+Hyundai,Sonata,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,22,31,347,6,6
+Hyundai,Sonata Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular,Regular Gasoline,38,43,222,9,9
+Hyundai,Sonata Hybrid SE,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular,Regular Gasoline,39,45,221,9,9
+Hyundai,Sonata Limited,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,30,365,5,5
+Hyundai,Sonata Plug-in Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular Gas and Electricity,Regular Gasoline,38,40,104,10,10
+Hyundai,Sonata Sport Limited,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,25,35,316,6,6
+Hyundai,Tucson AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,24,28,355,5,5
+Hyundai,Tucson AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,26,388,5,5
+Hyundai,Tucson Eco AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,25,30,333,6,6
+Hyundai,Tucson Eco FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,26,32,317,6,6
+Hyundai,Tucson FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,25,30,334,6,6
+Hyundai,Tucson FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,23,30,342,6,6
+Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,28,35,288,7,7
+Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,26,32,310,7,7
+Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,25,33,321,6,6
+Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,27,34,304,7,7
+Infiniti,Q50,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,20,29,390,5,5
+Infiniti,Q50,Midsize Cars,Rear-Wheel Drive,Automatic (S7),4,2.0,Premium,Premium Gasoline,23,31,345,6,6
+Infiniti,Q50 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,19,27,408,5,5
+Infiniti,Q50 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),4,2.0,Premium,Premium Gasoline,22,28,365,5,5
+Infiniti,Q50 Hybrid,Compact Cars,Rear-Wheel Drive,Automatic (S7),6,3.5,Premium,Premium Gasoline,27,32,308,7,7
+Infiniti,Q50 Hybrid AWD,Compact Cars,All-Wheel Drive,Automatic (S7),6,3.5,Premium,Premium Gasoline,26,30,321,6,6
+Infiniti,Q50S Red Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,20,26,398,5,5
+Infiniti,Q50S Red Sport  AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,19,26,412,5,5
+Infiniti,Q60,Subcompact Cars,Rear-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,19,28,396,5,5
+Infiniti,Q60,Subcompact Cars,Rear-Wheel Drive,Automatic (S7),4,2.0,Premium,Premium Gasoline,22,30,353,5,5
+Infiniti,Q60 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S7),4,2.0,Premium,Premium Gasoline,21,28,374,5,5
+Infiniti,Q60 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,19,27,407,5,5
+Infiniti,Q60S Red Sport,Subcompact Cars,Rear-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,20,27,398,5,5
+Infiniti,Q60S Red Sport AWD,Subcompact Cars,All-Wheel Drive,Automatic (S7),6,3.0,Premium,Premium Gasoline,19,26,418,4,4
+Infiniti,Q70,Midsize Cars,Rear-Wheel Drive,Automatic (S7),8,5.6,Premium,Premium Gasoline,16,24,464,4,4
+Infiniti,Q70,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,18,25,433,4,4
+Infiniti,Q70 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),8,5.6,Premium,Premium Gasoline,16,23,487,3,3
+Infiniti,Q70 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,18,24,442,4,4
+Infiniti,Q70 Hybrid,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.5,Premium,Premium Gasoline,28,33,296,7,7
+Infiniti,QX30,Compact Cars,Front-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,24,33,324,6,6
+Infiniti,QX30 AWD,Compact Cars,All-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,21,30,362,5,5
+Infiniti,QX50,Small Station Wagons,Rear-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,17,24,445,4,4
+Infiniti,QX50 AWD,Small Station Wagons,All-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,17,24,453,4,4
+Infiniti,QX60 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),6,3.5,Premium,Premium Gasoline,19,26,410,5,5
+Infiniti,QX60 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),6,3.5,Premium,Premium Gasoline,20,27,399,5,5
+Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),4,2.5,Regular,Regular Gasoline,25,27,345,6,6
+Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),4,2.5,Regular,Regular Gasoline,25,27,341,6,6
+Infiniti,QX70 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,16,22,486,3,3
+Infiniti,QX70 RWD,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,17,24,457,4,4
+Infiniti,QX80 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,Premium,Premium Gasoline,14,20,548,2,2
+Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S7),8,5.6,Premium,Premium Gasoline,13,19,593,2,2
+Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,23,446,4,4
+Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,26,33,352,7,5
+Jaguar,F-Type Convertible,Two Seaters,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,28,390,5,5
+Jaguar,F-Type Convertible,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,16,24,476,4,4
+Jaguar,F-Type Coupe,Two Seaters,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,28,390,5,5
+Jaguar,F-Type Coupe,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,16,24,476,4,4
+Jaguar,F-Type R AWD Convertible,Two Seaters,All-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,500,3,3
+Jaguar,F-Type R AWD Coupe,Two Seaters,All-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,500,3,3
+Jaguar,F-Type S AWD Convertible,Two Seaters,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,26,426,4,4
+Jaguar,F-Type S AWD Coupe,Two Seaters,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,26,426,4,4
+Jaguar,F-Type S Convertible,Two Seaters,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,27,407,5,5
+Jaguar,F-Type S Convertible,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,15,24,485,3,3
+Jaguar,F-Type S Coupe,Two Seaters,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,19,27,407,5,5
+Jaguar,F-Type S Coupe,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.0,Premium,Premium Gasoline,15,24,485,3,3
+Jaguar,XE,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,21,30,368,5,5
+Jaguar,XE,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,21,30,369,5,5
+Jaguar,XE,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,32,42,284,8,7
+Jaguar,XE AWD,Compact Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,29,383,5,5
+Jaguar,XE AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,30,40,299,8,7
+Jaguar,XF,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,29,377,5,5
+Jaguar,XF,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,31,42,289,8,7
+Jaguar,XF AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,20,28,390,5,5
+Jaguar,XF AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Diesel,Diesel,30,40,299,8,7
+Jaguar,XJ,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,503,3,3
+Jaguar,XJ,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,27,416,4,4
+Jaguar,XJ AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,17,26,444,4,4
+Jaguar,XJL,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,503,3,3
+Jaguar,XJL,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,18,27,418,4,4
+Jaguar,XJL AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,17,25,450,4,4
+Jeep,Cherokee 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,28,378,5,5
+Jeep,Cherokee 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,Gasoline or E85,Regular Gasoline,21,28,378,5,5
+Jeep,Cherokee 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,6,3.2,Midgrade,Midgrade Gasoline,20,27,388,5,5
+Jeep,Cherokee 4WD Active Drive II,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.2,Midgrade,Midgrade Gasoline,18,26,416,4,4
+Jeep,Cherokee 4WD Active Drive II,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,27,385,5,5
+Jeep,Cherokee FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,30,361,5,5
+Jeep,Cherokee FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Gasoline or E85,Regular Gasoline,21,30,361,5,5
+Jeep,Cherokee FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,6,3.2,Midgrade,Midgrade Gasoline,21,29,377,5,5
+Jeep,Cherokee Trailhawk 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,19,25,412,5,5
+Jeep,Cherokee Trailhawk 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.2,Midgrade,Midgrade Gasoline,18,24,432,4,4
+Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),4,2.4,Regular,Regular Gasoline,20,23,417,4,4
+Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,20,25,400,5,5
+Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 5-Speed,4,2.4,Regular,Regular Gasoline,22,27,369,5,5
+Jeep,Compass FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,22,26,378,5,5
+Jeep,Compass FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,21,27,382,5,5
+Jeep,Compass FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2.4,Regular,Regular Gasoline,23,28,353,5,5
+Jeep,Compass FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,23,30,347,5,5
+Jeep,Grand Cherokee 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,19,26,414,4,4
+Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,Regular,Regular Gasoline,18,25,427,4,4
+Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,14,22,533,3,3
+Jeep,Grand Cherokee SRT 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-Speed,8,6.4,Premium,Premium Gasoline,13,19,592,2,2
+Jeep,New Compass 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,22,30,358,5,5
+Jeep,Patriot 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),4,2.4,Regular,Regular Gasoline,20,23,417,4,4
+Jeep,Patriot 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,20,25,400,5,5
+Jeep,Patriot 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 5-Speed,4,2.4,Regular,Regular Gasoline,22,27,369,5,5
+Jeep,Patriot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,22,26,378,5,5
+Jeep,Patriot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4,2.4,Regular,Regular Gasoline,21,27,382,5,5
+Jeep,Patriot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2.4,Regular,Regular Gasoline,23,28,353,5,5
+Jeep,Patriot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,23,30,347,5,5
+Jeep,Renegade 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Gasoline or E85,Regular Gasoline,22,30,357,5,5
+Jeep,Renegade 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 6-Speed,4,1.4,Premium,Premium Gasoline,24,31,336,6,6
+Jeep,Renegade 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,29,371,5,5
+Jeep,Renegade 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 6-Speed,4,1.4,Premium,Premium Gasoline,24,31,339,6,6
+Jeep,Wrangler 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 5-Speed,6,3.6,Regular,Regular Gasoline,17,21,481,3,3
+Jeep,Wrangler 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-Speed,6,3.6,Regular,Regular Gasoline,17,21,480,3,3
+Jeep,Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 5-Speed,6,3.6,Regular,Regular Gasoline,16,20,504,3,3
+Jeep,Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-Speed,6,3.6,Regular,Regular Gasoline,16,21,502,3,3
+Kia,Cadenza,Large Cars,Front-Wheel Drive,Automatic (S8),6,3.3,Regular,Regular Gasoline,20,28,384,5,5
+Kia,Forte,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,25,33,318,6,6
+Kia,Forte,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,29,38,301,7,7
+Kia,Forte,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,25,34,314,6,6
+Kia,Forte 5,Large Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,25,30,332,6,6
+Kia,Forte 5,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,25,34,317,6,6
+Kia,Forte 5,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,23,29,353,5,5
+Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,25,32,328,6,6
+Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,25,33,320,6,6
+Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,23,30,348,6,6
+Kia,K900,Large Cars,Front-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,15,23,512,3,3
+Kia,K900,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3.8,Regular,Regular Gasoline,17,25,448,4,4
+Kia,Niro,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,51,46,183,10,10
+Kia,Niro FE,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,52,49,177,10,10
+Kia,Niro Touring,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,Regular,Regular Gasoline,46,40,207,9,9
+Kia,Optima,Large Cars,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,28,37,286,7,7
+Kia,Optima,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,22,31,360,5,5
+Kia,Optima,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,24,34,321,6,6
+Kia,Optima FE,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,25,36,310,7,7
+Kia,Optima Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular,Regular Gasoline,39,46,212,9,9
+Kia,Optima Plug-in Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2.0,Regular Gas and Electricity,Regular Gasoline,38,43,97,10,10
+Kia,Rio,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.6,Regular,Regular Gasoline,27,36,292,7,7
+Kia,Rio,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,27,36,287,7,7
+Kia,Rio Eco,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.6,Regular,Regular Gasoline,27,36,286,7,7
+Kia,Sedona,Minivan - 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,24,443,4,4
+Kia,Sedona SX,Minivan - 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,25,433,4,4
+Kia,Sedona SXL,Minivan - 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,17,22,476,4,4
+Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,19,25,414,5,5
+Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,25,397,5,5
+Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,17,23,465,4,4
+Kia,Sorento AWD FE,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,25,434,4,4
+Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,27,397,5,5
+Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,28,377,5,5
+Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.3,Regular,Regular Gasoline,18,25,436,4,4
+Kia,Soul,Small Station Wagons,Front-Wheel Drive,Auto(AM7),4,1.6,Regular,Regular Gasoline,26,31,320,6,6
+Kia,Soul,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,1.6,Regular,Regular Gasoline,25,30,330,6,6
+Kia,Soul,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,25,30,334,6,6
+Kia,Soul,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,Regular,Regular Gasoline,24,30,335,6,6
+Kia,Sportage AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,25,397,5,5
+Kia,Sportage AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,23,424,4,4
+Kia,Sportage FE AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,21,25,400,5,5
+Kia,Sportage FE FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,23,30,351,6,6
+Kia,Sportage FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.4,Regular,Regular Gasoline,22,29,358,5,5
+Kia,Sportage FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,26,392,5,5
+Lamborghini,Aventador Coupe,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,Premium,Premium Gasoline,11,18,676,1,1
+Lamborghini,Aventador Coupe LP740-4,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,Premium,Premium Gasoline,10,16,746,1,1
+Lamborghini,Aventador Roadster,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,Premium,Premium Gasoline,10,18,698,1,1
+Lamborghini,Aventador Roadster LP740-4,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,Premium,Premium Gasoline,10,16,746,1,1
+Lamborghini,Huracan,Two Seaters,All-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,21,532,3,3
+Lamborghini,Huracan 2WD,Two Seaters,Rear-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,21,532,3,3
+Lamborghini,Huracan Spyder,Two Seaters,All-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,20,547,2,2
+Lamborghini,Huracan Spyder 2WD,Two Seaters,Rear-Wheel Drive,Auto(AM-S7),10,5.2,Premium,Premium Gasoline,14,20,547,2,2
+Land Rover,Discovery Sport,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),4,2.0,Premium,Premium Gasoline,20,25,406,5,5
+Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,14,19,570,2,2
+Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,17,23,468,4,4
+Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3.0,Diesel,Diesel,22,28,412,5,5
+Land Rover,Range Rover Evoque,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),4,2.0,Premium,Premium Gasoline,21,29,372,5,5
+Land Rover,Range Rover Evoque Convertible,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),4,2.0,Premium,Premium Gasoline,20,28,391,5,5
+Land Rover,Range Rover LWB,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,14,19,570,2,2
+Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,14,19,552,2,2
+Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3.0,Premium,Premium Gasoline,17,23,468,4,4
+Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3.0,Diesel,Diesel,22,28,412,5,5
+Lexus,CT 200h,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,43,40,212,9,9
+Lexus,ES 300h,Midsize Cars,Front-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,40,39,223,9,9
+Lexus,ES 350,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,21,30,365,5,5
+Lexus,GS 200t,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,345,6,6
+Lexus,GS 200t F Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,21,30,368,5,5
+Lexus,GS 350,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,Premium,Premium Gasoline,20,28,388,5,5
+Lexus,GS 350 AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,26,411,5,5
+Lexus,GS 350 F Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,Premium,Premium Gasoline,19,27,405,5,5
+Lexus,GS 450h,Midsize Cars,Rear-Wheel Drive,Auto(AV-S8),6,3.5,Premium,Premium Gasoline,29,34,283,7,7
+Lexus,GS F,Compact Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,16,24,472,4,4
+Lexus,GX 460,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),8,4.6,Premium,Premium Gasoline,15,18,548,2,2
+Lexus,IS 200t,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,345,6,6
+Lexus,IS 300 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,26,415,4,4
+Lexus,IS 350,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,Premium,Premium Gasoline,19,28,396,5,5
+Lexus,IS 350 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,26,415,4,4
+Lexus,LS 460,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,4.6,Premium,Premium Gasoline,16,24,460,4,4
+Lexus,LS 460 AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.6,Premium,Premium Gasoline,16,23,486,3,3
+Lexus,LS 460 L,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,4.6,Premium,Premium Gasoline,16,24,460,4,4
+Lexus,LS 460 L AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.6,Premium,Premium Gasoline,16,23,486,3,3
+Lexus,LX 570,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.7,Premium,Premium Gasoline,13,18,596,2,2
+Lexus,NX 200t,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,22,28,360,5,5
+Lexus,NX 200t AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,22,28,364,5,5
+Lexus,NX 200t AWD F Sport,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,22,27,374,5,5
+Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,33,30,281,7,7
+Lexus,RC 200t,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,345,6,6
+Lexus,RC 300 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,26,415,4,4
+Lexus,RC 350,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,Premium,Premium Gasoline,19,28,396,5,5
+Lexus,RC 350 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,19,26,415,4,4
+Lexus,RC F,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),8,5.0,Premium,Premium Gasoline,16,25,465,4,4
+Lexus,RX 350,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,20,27,391,5,5
+Lexus,RX 350 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,19,26,405,5,5
+Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,Premium,Premium Gasoline,31,28,297,7,7
+Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.0,Regular,Regular Gasoline,16,24,467,4,4
+Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,17,25,453,4,4
+Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,16,24,467,4,4
+Lincoln,Continental  FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,18,27,422,4,4
+Lincoln,Continental  FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,17,26,440,4,4
+Lincoln,MKC AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.3,Regular,Regular Gasoline,18,25,433,4,4
+Lincoln,MKC AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,19,25,413,4,4
+Lincoln,MKC AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,19,25,404,5,5
+Lincoln,MKC FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,28,387,5,5
+Lincoln,MKT AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,21,523,3,3
+Lincoln,MKT FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,16,24,468,4,4
+Lincoln,MKT Livery AWD,Special Purpose Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.7,Regular,Regular Gasoline,16,23,493,3,3
+Lincoln,MKX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,17,24,467,4,4
+Lincoln,MKX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,16,23,471,4,4
+Lincoln,MKX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.7,Regular,Regular Gasoline,17,25,440,4,4
+Lincoln,MKX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,2.7,Regular,Regular Gasoline,18,25,444,4,4
+Lincoln,MKZ AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,20,28,386,5,5
+Lincoln,MKZ AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),6,3.0,Regular,Regular Gasoline,17,26,447,4,4
+Lincoln,MKZ FWD,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,21,31,370,5,5
+Lincoln,MKZ FWD,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.0,Regular,Regular Gasoline,18,27,425,4,4
+Lincoln,MKZ Hybrid FWD,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,41,38,222,9,9
+Lincoln,Navigator 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,21,523,3,3
+Lincoln,Navigator 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,20,537,3,3
+Lincoln,Navigator L 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,20,536,3,3
+Lincoln,Navigator L 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,15,19,546,2,2
+Lotus,Evora,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),6,3.5,Premium,Premium Gasoline,17,24,451,4,4
+Lotus,Evora,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.5,Premium,Premium Gasoline,16,24,468,4,4
+Maserati,Ghibli S RWD,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.0,Premium,Premium Gasoline,16,24,471,4,4
+Maserati,Ghibli V6,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.0,Premium,Premium Gasoline,17,24,460,4,4
+Maserati,Ghibli V6 SQ4 AWD,Midsize Cars,All-Wheel Drive,Automatic 8-Speed,6,3.0,Premium,Premium Gasoline,16,24,475,4,4
+Maserati,GranTurismo,Subcompact Cars,Rear-Wheel Drive,Automatic 6-Speed,8,4.7,Premium,Premium Gasoline,13,21,572,2,2
+Maserati,GranTurismo Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 6-Speed,8,4.7,Premium,Premium Gasoline,13,20,577,2,2
+Maserati,Levante,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-Speed,8,3.0,Premium,Premium Gasoline,14,20,548,2,2
+Maserati,Levante S,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-Speed,8,3.0,Premium,Premium Gasoline,14,19,557,2,2
+Maserati,Quattroporte GTS,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,3.8,Premium,Premium Gasoline,15,22,517,3,3
+Maserati,Quattroporte S,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.0,Premium,Premium Gasoline,16,23,482,3,3
+Maserati,Quattroporte SQ4 V6,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.0,Premium,Premium Gasoline,16,23,485,3,3
+Mazda,2,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Regular,Regular Gasoline,32,40,252,8,8
+Mazda,2,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,30,39,259,8,8
+Mazda,6,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,26,35,304,7,7
+Mazda,6,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,27,35,299,7,7
+Mazda,6,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,24,34,315,6,6
+Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,28,37,281,7,7
+Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,27,36,293,7,7
+Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,28,37,284,7,7
+Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,27,37,284,7,7
+Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,25,34,312,7,7
+Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,28,37,283,7,7
+Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,26,35,294,7,7
+Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,27,36,291,7,7
+Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,27,37,286,7,7
+Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,25,33,319,6,6
+Mazda,CX-3 2WD,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,29,34,288,7,7
+Mazda,CX-3 4WD,Compact Cars,4-Wheel Drive,Automatic (S6),4,2.0,Regular,Regular Gasoline,27,32,308,7,7
+Mazda,CX-9 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,22,28,362,5,5
+Mazda,CX-9 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,20,26,390,5,5
+Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,26,35,301,7,7
+Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,26,33,305,7,7
+McLaren Automotive,570GT,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,8,3.8,Premium,Premium Gasoline,16,23,481,4,4
+McLaren Automotive,570S Coupe,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,8,3.8,Premium,Premium Gasoline,16,23,481,4,4
+Mercedes-Benz,AMG C43 4matic,Compact Cars,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,20,28,382,5,5
+Mercedes-Benz,AMG C43 4matic Convertible,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,19,26,410,5,5
+Mercedes-Benz,AMG C43 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,20,28,389,5,5
+Mercedes-Benz,AMG C63,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,18,25,432,4,4
+Mercedes-Benz,AMG C63 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,17,22,470,4,4
+Mercedes-Benz,AMG C63 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,17,23,458,4,4
+Mercedes-Benz,AMG C63 S,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,18,24,441,4,4
+Mercedes-Benz,AMG C63 S Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,17,22,470,4,4
+Mercedes-Benz,AMG C63 S Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,17,23,458,4,4
+Mercedes-Benz,AMG CLA45 4matic,Compact Cars,4-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,23,30,348,6,6
+Mercedes-Benz,AMG CLS63 S 4matic,Compact Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,16,22,495,3,3
+Mercedes-Benz,AMG E43 4matic,Midsize Cars,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,18,25,431,4,4
+Mercedes-Benz,AMG G63,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,12,14,696,1,1
+Mercedes-Benz,AMG G65,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,11,13,762,1,1
+Mercedes-Benz,AMG GLA45 4matic,Midsize Station Wagons,4-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,22,28,361,5,5
+Mercedes-Benz,AMG GLC43 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,18,24,443,4,4
+Mercedes-Benz,AMG GLC43 4matic Coupe,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,18,24,438,4,4
+Mercedes-Benz,AMG GLE43 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,17,23,455,4,4
+Mercedes-Benz,AMG GLE43 4matic Coupe,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,17,23,454,4,4
+Mercedes-Benz,AMG GLE63,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,13,17,611,2,2
+Mercedes-Benz,AMG GLE63 S,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,13,17,611,2,2
+Mercedes-Benz,AMG GLE63 S Coupe,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,14,18,574,2,2
+Mercedes-Benz,AMG GLS63,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,13,17,615,1,1
+Mercedes-Benz,AMG GT,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,4.0,Premium,Premium Gasoline,16,22,486,3,3
+Mercedes-Benz,AMG GT S,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,4.0,Premium,Premium Gasoline,16,22,486,3,3
+Mercedes-Benz,AMG S63 4matic,Large Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,15,23,499,3,3
+Mercedes-Benz,AMG S63 4matic Convertible,Subcompact Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,14,22,517,3,3
+Mercedes-Benz,AMG S63 4matic Coupe,Compact Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,15,23,490,3,3
+Mercedes-Benz,AMG S65,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,13,22,552,2,2
+Mercedes-Benz,AMG SL63,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,8,5.5,Premium,Premium Gasoline,16,25,468,4,4
+Mercedes-Benz,AMG SL65,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,13,22,546,2,2
+Mercedes-Benz,AMG SLC43,Two Seaters,Rear-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,20,29,379,5,5
+Mercedes-Benz,C300,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,24,34,319,6,6
+Mercedes-Benz,C300 4matic,Compact Cars,4-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,24,31,333,6,6
+Mercedes-Benz,C300 4matic Convertible,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,22,29,360,5,5
+Mercedes-Benz,C300 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,23,29,354,5,5
+Mercedes-Benz,C300 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,23,31,342,6,6
+Mercedes-Benz,C300 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,23,30,347,6,6
+Mercedes-Benz,CLA250,Compact Cars,Front-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,24,36,311,7,7
+Mercedes-Benz,CLA250 4matic,Compact Cars,4-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,23,32,336,6,6
+Mercedes-Benz,CLA250 4matic,Compact Cars,4-Wheel Drive,Auto(AM7),4,2.0,Premium or E85,Premium Gasoline,23,32,336,6,6
+Mercedes-Benz,CLS550,Compact Cars,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,18,26,425,4,4
+Mercedes-Benz,CLS550 4matic,Compact Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,17,25,444,4,4
+Mercedes-Benz,E300,Midsize Cars,Rear-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,22,30,351,5,5
+Mercedes-Benz,E300 4matic,Midsize Cars,4-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,22,29,362,5,5
+Mercedes-Benz,E400 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 7-Speed,6,3.0,Premium,Premium Gasoline,20,28,387,5,5
+Mercedes-Benz,E400 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,6,3.0,Premium,Premium Gasoline,20,29,377,5,5
+Mercedes-Benz,E400 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,6,3.0,Premium,Premium Gasoline,20,29,377,5,5
+Mercedes-Benz,E550 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.7,Premium,Premium Gasoline,17,25,443,4,4
+Mercedes-Benz,E550 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4.7,Premium,Premium Gasoline,18,26,432,4,4
+Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,13,14,660,1,1
+Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,4.0,Premium,Premium Gasoline,11,11,829,1,1
+Mercedes-Benz,GLA250,Midsize Station Wagons,Front-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,24,33,322,6,6
+Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AM7),4,2.0,Premium,Premium Gasoline,23,31,344,6,6
+Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AM7),4,2.0,Premium or E85,Premium Gasoline,23,31,344,6,6
+Mercedes-Benz,GLC300,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,22,28,364,5,5
+Mercedes-Benz,GLC300 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,21,28,374,5,5
+Mercedes-Benz,GLC300 4matic Coupe,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),4,2.0,Premium,Premium Gasoline,22,27,375,5,5
+Mercedes-Benz,GLE350,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,6,3.5,Premium,Premium Gasoline,18,23,440,4,4
+Mercedes-Benz,GLE350 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6,3.5,Premium,Premium Gasoline,18,22,457,4,4
+Mercedes-Benz,GLE350 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6,3.5,Premium or E85,Premium Gasoline,18,22,457,4,4
+Mercedes-Benz,GLE400 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,18,23,445,4,4
+Mercedes-Benz,GLE550e 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6,3.0,Premium and Electricity,Premium Gasoline,20,23,296,5,7
+Mercedes-Benz,GLS450 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,17,22,477,4,4
+Mercedes-Benz,GLS550 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,14,18,562,2,2
+Mercedes-Benz,Maybach S550 4matic,Large Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,16,24,466,4,4
+Mercedes-Benz,Maybach S600,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,13,21,565,2,2
+Mercedes-Benz,Metris (Cargo Van),Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,21,24,396,5,5
+Mercedes-Benz,Metris (Passenger Van),Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,4,2.0,Premium,Premium Gasoline,20,23,413,5,5
+Mercedes-Benz,S550,Large Cars,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,18,26,434,4,4
+Mercedes-Benz,S550 4matic,Large Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,16,25,452,4,4
+Mercedes-Benz,S550 4matic Coupe,Compact Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,17,25,443,4,4
+Mercedes-Benz,S550 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,17,25,445,4,4
+Mercedes-Benz,S550e,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,6,3.0,Premium and Electricity,Premium Gasoline,24,30,229,7,9
+Mercedes-Benz,S600,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,13,22,547,2,2
+Mercedes-Benz,S65 AMG Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,14,21,542,2,2
+Mercedes-Benz,S65 AMG Coupe,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6.0,Premium,Premium Gasoline,13,21,553,2,2
+Mercedes-Benz,SL450,Two Seaters,Rear-Wheel Drive,Automatic 9-Speed,6,3.0,Premium,Premium Gasoline,20,28,383,5,5
+Mercedes-Benz,SL550,Two Seaters,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,Premium,Premium Gasoline,17,25,442,4,4
+Mercedes-Benz,SLC300,Two Seaters,Rear-Wheel Drive,Automatic 9-Speed,4,2.0,Premium,Premium Gasoline,25,32,324,6,6
+MINI,Cooper Clubman,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Premium,Premium Gasoline,25,33,317,6,6
+MINI,Cooper Clubman,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,25,34,317,6,6
+MINI,Cooper Clubman All4,Midsize Cars,All-Wheel Drive,Automatic (S8),4,1.5,Premium,Premium Gasoline,22,29,353,5,5
+MINI,Cooper Clubman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,22,32,345,6,6
+MINI,Cooper Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Premium,Premium Gasoline,27,36,294,7,7
+MINI,Cooper Convertible,Minicompact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,28,37,281,7,7
+MINI,Cooper Countryman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,22,32,345,6,6
+MINI,Cooper Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Premium,Premium Gasoline,27,36,294,7,7
+MINI,Cooper Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,28,38,282,7,7
+MINI,Cooper Hardtop 4 door,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Premium,Premium Gasoline,27,36,294,7,7
+MINI,Cooper Hardtop 4 door,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Premium,Premium Gasoline,28,37,281,7,7
+MINI,Cooper S Clubman,Midsize Cars,Front-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,33,329,6,6
+MINI,Cooper S Clubman,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,22,31,349,5,5
+MINI,Cooper S Clubman All4,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,346,6,6
+MINI,Cooper S Clubman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,30,366,5,5
+MINI,Cooper S Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,25,33,315,6,6
+MINI,Cooper S Convertible,Minicompact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,32,337,6,6
+MINI,Cooper S Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,25,32,316,6,6
+MINI,Cooper S Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,32,337,6,6
+MINI,Cooper S Hardtop 4 door,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,25,32,316,6,6
+MINI,Cooper S Hardtop 4 door,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,32,337,6,6
+MINI,John Cooper Works Clubman All4,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,31,339,6,6
+MINI,John Cooper Works Clubman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,31,367,5,5
+MINI,John Cooper Works Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,24,32,327,6,6
+MINI,John Cooper Works Convertible,Minicompact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,22,31,349,5,5
+MINI,John Cooper Works Hardtop,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,25,32,316,6,6
+MINI,John Cooper Works Hardtop,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,23,32,337,6,6
+Mitsubishi,Lancer,Compact Cars,Front-Wheel Drive,Auto(AV-S6),4,2.0,Regular,Regular Gasoline,27,34,295,7,7
+Mitsubishi,Lancer,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,24,33,322,6,6
+Mitsubishi,Lancer 4WD,Compact Cars,All-Wheel Drive,Auto(AV-S6),4,2.4,Regular,Regular Gasoline,23,30,343,6,6
+Mitsubishi,Mirage,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),3,1.2,Regular,Regular Gasoline,37,43,226,9,9
+Mitsubishi,Mirage,Compact Cars,Front-Wheel Drive,Manual 5-Speed,3,1.2,Regular,Regular Gasoline,33,41,242,8,8
+Mitsubishi,Mirage G4,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),3,1.2,Regular,Regular Gasoline,35,42,237,8,8
+Mitsubishi,Mirage G4,Compact Cars,Front-Wheel Drive,Manual 5-Speed,3,1.2,Regular,Regular Gasoline,33,40,249,8,8
+Mitsubishi,Outlander 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S6),4,2.4,Regular,Regular Gasoline,25,30,330,6,6
+Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AV-S6),4,2.4,Regular,Regular Gasoline,24,29,340,6,6
+Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),6,3.0,Premium,Premium Gasoline,20,27,388,5,5
+Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S6),4,2.0,Regular,Regular Gasoline,24,30,328,6,6
+Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,23,29,347,5,5
+Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AV-S6),4,2.0,Regular,Regular Gasoline,23,29,343,6,6
+Nissan,370Z,Two Seaters,Rear-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,19,26,411,5,5
+Nissan,370Z,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.7,Premium,Premium Gasoline,18,26,426,4,4
+Nissan,370Z Roadster,Two Seaters,Rear-Wheel Drive,Automatic (S7),6,3.7,Premium,Premium Gasoline,18,25,433,4,4
+Nissan,370Z Roadster,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6,3.7,Premium,Premium Gasoline,17,24,447,4,4
+Nissan,Altima,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),6,3.5,Regular,Regular Gasoline,22,32,347,6,6
+Nissan,Altima,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,27,39,287,7,7
+Nissan,Altima SR,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,2.5,Regular,Regular Gasoline,26,37,297,7,7
+Nissan,Armada 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,Regular,Regular Gasoline,14,19,555,2,2
+Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S7),8,5.6,Regular,Regular Gasoline,13,18,588,2,2
+Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,4,2.5,Regular,Regular Gasoline,17,22,467,4,4
+Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,6,4.0,Regular,Regular Gasoline,16,23,478,4,4
+Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 5-Speed,4,2.5,Regular,Regular Gasoline,19,23,431,4,4
+Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,6,4.0,Regular,Regular Gasoline,16,22,479,4,4
+Nissan,Frontier 2WD FFV,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,6,4.0,Gasoline or E85,Regular Gasoline,16,22,494,3,3
+Nissan,Frontier 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 5-Speed,6,4.0,Regular,Regular Gasoline,15,21,520,3,3
+Nissan,Frontier 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 6-Speed,6,4.0,Regular,Regular Gasoline,16,21,507,3,3
+Nissan,Frontier 4WD FFV,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 5-Speed,6,4.0,Gasoline or E85,Regular Gasoline,15,21,521,3,3
+Nissan,GT-R,Subcompact Cars,All-Wheel Drive,Auto(AM6),6,3.8,Premium,Premium Gasoline,16,22,484,3,3
+Nissan,Juke,Small Station Wagons,Front-Wheel Drive,Auto(AV-S7),4,1.6,Premium,Premium Gasoline,28,32,303,7,7
+Nissan,Juke,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,Premium,Premium Gasoline,27,33,307,7,7
+Nissan,Juke AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,1.6,Premium,Premium Gasoline,26,30,319,6,6
+Nissan,Juke Nismo RS,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,Premium,Premium Gasoline,26,31,316,6,6
+Nissan,Juke Nismo RS AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S8),4,1.6,Premium,Premium Gasoline,25,29,337,6,6
+Nissan,Maxima,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),6,3.5,Premium,Premium Gasoline,21,30,366,5,5
+Nissan,Murano AWD,Midsize Station Wagons,All-Wheel Drive,Auto(AV-S7),6,3.5,Regular,Regular Gasoline,21,28,376,5,5
+Nissan,Murano FWD,Midsize Station Wagons,Front-Wheel Drive,Auto(AV-S7),6,3.5,Regular,Regular Gasoline,21,28,373,5,5
+Nissan,NV200 Cargo Van,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.0,Regular,Regular Gasoline,24,26,354,5,5
+Nissan,Pathfinder 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.5,Regular,Regular Gasoline,20,27,395,5,5
+Nissan,Pathfinder 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),6,3.5,Regular,Regular Gasoline,19,26,404,5,5
+Nissan,Pathfinder 4WD Platinum,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),6,3.5,Regular,Regular Gasoline,19,26,415,4,4
+Nissan,Quest,Minivan - 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.5,Regular,Regular Gasoline,20,27,396,5,5
+Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,25,32,326,6,6
+Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,26,33,312,7,7
+Nissan,Rogue Hybrid  AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,31,34,276,8,8
+Nissan,Rogue Hybrid  FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,33,35,261,8,8
+Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.6,Premium,Premium Gasoline,27,33,307,7,7
+Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,29,37,278,7,7
+Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,27,35,298,7,7
+Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Premium,Premium Gasoline,26,32,318,6,6
+Nissan,Sentra Nismo,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.6,Premium,Premium Gasoline,25,30,330,6,6
+Nissan,Sentra Nismo,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,Premium,Premium Gasoline,25,31,330,6,6
+Nissan,Titan 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,Regular,Regular Gasoline,15,21,505,3,3
+Nissan,Titan 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S7),8,5.6,Regular,Regular Gasoline,15,21,505,3,3
+Nissan,Titan 4WD  PRO4X,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S7),8,5.6,Regular,Regular Gasoline,15,20,529,3,3
+Nissan,Versa,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.6,Regular,Regular Gasoline,31,39,260,8,8
+Nissan,Versa,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4,1.6,Regular,Regular Gasoline,26,35,302,7,7
+Nissan,Versa,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.6,Regular,Regular Gasoline,27,36,296,7,7
+Porsche,911 Carrera,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,30,355,5,5
+Porsche,911 Carrera,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,29,382,5,5
+Porsche,911 Carrera 4,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,28,362,5,5
+Porsche,911 Carrera 4,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,28,389,5,5
+Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,21,28,370,5,5
+Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,19,28,395,5,5
+Porsche,911 Carrera 4 GTS,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,26,400,5,5
+Porsche,911 Carrera 4 GTS,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,18,26,414,4,4
+Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,25,402,5,5
+Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,18,26,419,4,4
+Porsche,911 Carrera 4S,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,21,28,373,5,5
+Porsche,911 Carrera 4S,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,28,392,5,5
+Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,21,28,371,5,5
+Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,19,28,396,5,5
+Porsche,911 Carrera Cabriolet,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,28,365,5,5
+Porsche,911 Carrera Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,29,388,5,5
+Porsche,911 Carrera GTS,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,26,391,5,5
+Porsche,911 Carrera GTS,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,18,26,418,4,4
+Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,26,400,5,5
+Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,18,26,415,4,4
+Porsche,911 Carrera S,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,28,363,5,5
+Porsche,911 Carrera S,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,29,389,5,5
+Porsche,911 Carrera S Cabriolet,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,28,367,5,5
+Porsche,911 Carrera S Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,20,28,391,5,5
+Porsche,911 Targa 4,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,22,28,367,5,5
+Porsche,911 Targa 4,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,19,28,395,5,5
+Porsche,911 Targa 4 GTS,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,20,26,404,5,5
+Porsche,911 Targa 4 GTS,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,18,26,428,4,4
+Porsche,911 Targa 4S,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,21,27,376,5,5
+Porsche,911 Targa 4S,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3.0,Premium,Premium Gasoline,19,28,396,5,5
+Porsche,911 Turbo,Minicompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.8,Premium,Premium Gasoline,19,24,428,4,4
+Porsche,911 Turbo Cabriolet,Minicompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.8,Premium,Premium Gasoline,19,24,430,4,4
+Porsche,911 Turbo S,Minicompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.8,Premium,Premium Gasoline,19,24,428,4,4
+Porsche,911 Turbo S Cabriolet,Minicompact Cars,All-Wheel Drive,Auto(AM-S7),6,3.8,Premium,Premium Gasoline,19,24,430,4,4
+Porsche,Boxster,Two Seaters,Rear-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,22,29,353,5,5
+Porsche,Boxster,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,28,369,5,5
+Porsche,Boxster S,Two Seaters,Rear-Wheel Drive,Auto(AM-S7),4,2.5,Premium,Premium Gasoline,21,28,372,5,5
+Porsche,Boxster S,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,4,2.5,Premium,Premium Gasoline,20,26,401,5,5
+Porsche,Cayenne,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,18,24,432,4,4
+Porsche,Cayenne GTS,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,16,23,476,4,4
+Porsche,Cayenne Platinum,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,17,23,453,4,4
+Porsche,Cayenne S,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Premium,Premium Gasoline,17,24,452,4,4
+Porsche,Cayenne S e-Hybrid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM8),6,3.0,Premium Gas or Electricity,Premium Gasoline,21,24,258,6,8
+Porsche,Cayenne Turbo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.8,Premium,Premium Gasoline,14,21,536,3,3
+Porsche,Cayenne Turbo S,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),8,4.8,Premium,Premium Gasoline,14,21,536,3,3
+Porsche,Macan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),4,2.0,Premium,Premium Gasoline,20,25,399,5,5
+Porsche,Macan GTS,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,17,23,461,4,4
+Porsche,Macan S,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),6,3.0,Premium,Premium Gasoline,17,23,459,4,4
+Porsche,Macan Turbo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),6,3.6,Premium,Premium Gasoline,17,23,467,4,4
+Porsche,Macan Turbo Kit,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),6,3.6,Premium,Premium Gasoline,17,23,460,4,4
+Ram,1500 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,15,22,512,3,3
+Ram,1500 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,17,25,450,4,4
+Ram,1500 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,8,5.7,Midgrade,Midgrade Gasoline,13,19,580,2,2
+Ram,1500 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,8,5.7,Midgrade,Midgrade Gasoline,15,21,527,3,3
+Ram,1500 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,Gasoline or E85,Regular Gasoline,16,23,475,4,4
+Ram,Promaster City,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,Regular,Regular Gasoline,21,28,374,5,5
+Rolls-Royce,Dawn,Compact Cars,Rear-Wheel Drive,Automatic (S8),12,6.6,Premium,Premium Gasoline,12,19,627,1,1
+Rolls-Royce,Ghost,Large Cars,Rear-Wheel Drive,Automatic (S8),12,6.6,Premium,Premium Gasoline,12,19,627,1,1
+Rolls-Royce,Ghost EWB,Large Cars,Rear-Wheel Drive,Automatic (S8),12,6.6,Premium,Premium Gasoline,12,19,627,1,1
+Rolls-Royce,Phantom,Large Cars,Rear-Wheel Drive,Automatic (S8),12,6.7,Premium,Premium Gasoline,11,19,638,1,1
+Rolls-Royce,Phantom Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),12,6.7,Premium,Premium Gasoline,11,19,638,1,1
+Rolls-Royce,Phantom Drophead Coupe,Compact Cars,Rear-Wheel Drive,Automatic (S8),12,6.7,Premium,Premium Gasoline,11,19,637,1,1
+Rolls-Royce,Phantom EWB,Large Cars,Rear-Wheel Drive,Automatic (S8),12,6.7,Premium,Premium Gasoline,11,19,637,1,1
+Rolls-Royce,Wraith,Midsize Cars,Rear-Wheel Drive,Automatic (S8),12,6.6,Premium,Premium Gasoline,12,19,604,2,2
+Roush Performance,Stage 3 Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),8,5.0,Premium,Premium Gasoline,14,22,531,3,3
+Roush Performance,Stage 3 Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.0,Premium,Premium Gasoline,13,23,559,2,2
+smart,fortwo cabriolet,Two Seaters,Rear-Wheel Drive,Auto(AM6),3,0.9,Premium,Premium Gasoline,33,38,251,8,8
+smart,fortwo cabriolet,Two Seaters,Rear-Wheel Drive,Manual 5-Speed,3,0.9,Premium,Premium Gasoline,31,38,258,8,8
+smart,fortwo coupe,Two Seaters,Rear-Wheel Drive,Auto(AM6),3,0.9,Premium,Premium Gasoline,33,39,248,8,8
+smart,fortwo coupe,Two Seaters,Rear-Wheel Drive,Manual 5-Speed,3,0.9,Premium,Premium Gasoline,31,39,257,8,8
+Subaru,BRZ,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,24,33,322,6,6
+Subaru,BRZ,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,29,367,5,5
+Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.0,Regular,Regular Gasoline,26,33,311,7,7
+Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,23,30,348,6,6
+Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S8),4,2.0,Premium,Premium Gasoline,23,27,359,5,5
+Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,26,32,315,6,6
+Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 6-Speed,4,2.5,Regular,Regular Gasoline,22,28,368,5,5
+Subaru,Impreza 4-Door,Midsize Cars,All-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,28,38,282,7,7
+Subaru,Impreza 4-Door,Midsize Cars,All-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,24,32,331,6,6
+Subaru,Impreza 5-Door,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,28,37,282,7,7
+Subaru,Impreza 5-Door,Small Station Wagons,All-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,24,31,335,6,6
+Subaru,Impreza Sport 4-Door,Midsize Cars,All-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,27,36,291,7,7
+Subaru,Impreza Sport 4-Door,Midsize Cars,All-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,23,31,337,6,6
+Subaru,Impreza Sport 5-Door,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,2.0,Regular,Regular Gasoline,27,35,292,7,7
+Subaru,Impreza Sport 5-Door,Small Station Wagons,All-Wheel Drive,Manual 5-Speed,4,2.0,Regular,Regular Gasoline,22,30,351,5,5
+Subaru,Legacy AWD,Midsize Cars,All-Wheel Drive,Auto(AV-S6),6,3.6,Regular,Regular Gasoline,20,28,387,5,5
+Subaru,Legacy AWD,Midsize Cars,All-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,25,34,311,7,7
+Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.6,Regular,Regular Gasoline,20,27,398,5,5
+Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,25,32,319,6,6
+Subaru,WRX,Compact Cars,All-Wheel Drive,Auto(AV-S8),4,2.0,Premium,Premium Gasoline,18,24,420,4,4
+Subaru,WRX,Compact Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,20,27,385,5,5
+Subaru,WRX,Compact Cars,All-Wheel Drive,Manual 6-Speed,4,2.5,Premium,Premium Gasoline,17,23,458,4,4
+Toyota,86,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,24,32,328,6,6
+Toyota,86,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,21,28,373,5,5
+Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S5),6,4.0,Regular,Regular Gasoline,17,21,479,3,3
+Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S5),6,4.0,Regular,Regular Gasoline,17,20,491,3,3
+Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S5),6,4.0,Regular,Regular Gasoline,17,20,491,3,3
+Toyota,Avalon,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,21,30,365,5,5
+Toyota,Avalon Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,40,39,223,9,9
+Toyota,Camry,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,21,30,363,5,5
+Toyota,Camry,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,24,33,321,6,6
+Toyota,Camry Hybrid LE,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,42,38,221,9,9
+Toyota,Camry Hybrid XLE/SE,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,Regular,Regular Gasoline,40,37,230,9,9
+Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.8,Regular,Regular Gasoline,28,35,286,7,7
+Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,28,36,281,7,7
+Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,27,35,289,7,7
+Toyota,Corolla iM,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.8,Regular,Regular Gasoline,28,36,283,7,7
+Toyota,Corolla iM,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,27,35,297,7,7
+Toyota,Corolla LE Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,30,40,263,8,8
+Toyota,Corolla LE Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,29,38,271,8,8
+Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.7,Regular,Regular Gasoline,20,24,407,5,5
+Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,20,27,391,5,5
+Toyota,Highlander AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,20,26,398,5,5
+Toyota,Highlander AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,19,26,405,5,5
+Toyota,Highlander AWD LE,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,20,27,390,5,5
+Toyota,Highlander Hybrid 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,Regular,Regular Gasoline,29,27,311,6,6
+Toyota,Highlander Hybrid 4WD LE Plus,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,Regular,Regular Gasoline,30,28,305,7,7
+Toyota,Highlander LE/XLE/SE/LTD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,21,27,384,5,5
+Toyota,Land Cruiser Wagon 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.7,Regular,Regular Gasoline,13,18,595,2,2
+Toyota,Prius,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,54,50,171,10,10
+Toyota,Prius c,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,Regular,Regular Gasoline,48,43,193,10,10
+Toyota,Prius Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,58,53,158,10,10
+Toyota,Prius Prime,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular Gas and Electricity,Regular Gasoline,55,53,78,10,10
+Toyota,Prius v,Midsize Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,Regular,Regular Gasoline,43,39,217,9,9
+Toyota,RAV4,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,23,29,349,5,5
+Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,22,28,357,5,5
+Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.5,Regular,Regular Gasoline,34,30,275,7,7
+Toyota,RAV4 LE/XLE,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,23,30,338,6,6
+Toyota,RAV4 Limited AWD/SE AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.5,Regular,Regular Gasoline,22,28,363,5,5
+Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,Regular,Regular Gasoline,13,17,610,2,2
+Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,Regular,Regular Gasoline,13,17,613,1,1
+Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,Gasoline or E85,Regular Gasoline,13,17,632,1,1
+Toyota,Sienna 2WD,Minivan - 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,19,27,409,5,5
+Toyota,Sienna AWD,Minivan - 4WD,All-Wheel Drive,Automatic (S8),6,3.5,Regular,Regular Gasoline,18,24,441,4,4
+Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,19,24,431,4,4
+Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),4,2.7,Regular,Regular Gasoline,19,23,427,4,4
+Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,3.5,Regular,Regular Gasoline,18,23,446,4,4
+Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),4,2.7,Regular,Regular Gasoline,19,22,441,4,4
+Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 5-Speed,4,2.7,Regular,Regular Gasoline,19,21,448,4,4
+Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 6-Speed,6,3.5,Regular,Regular Gasoline,17,21,481,3,3
+Toyota,Tacoma 4WD Double Cab,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 6-Speed,6,3.5,Regular,Regular Gasoline,17,20,483,3,3
+Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,4.6,Regular,Regular Gasoline,15,19,554,2,2
+Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,Regular,Regular Gasoline,13,18,592,2,2
+Toyota,Tundra 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,Gasoline or E85,Regular Gasoline,13,18,594,2,2
+Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,4.6,Regular,Regular Gasoline,14,18,568,2,2
+Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,Regular,Regular Gasoline,13,17,606,2,2
+Toyota,Tundra 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,Gasoline or E85,Regular Gasoline,13,17,604,2,2
+Toyota,Yaris,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4,1.5,Regular,Regular Gasoline,30,35,278,7,7
+Toyota,Yaris,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.5,Regular,Regular Gasoline,30,36,271,8,8
+Toyota,Yaris iA,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,Regular,Regular Gasoline,32,40,249,8,8
+Toyota,Yaris iA,Subcompact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,Regular,Regular Gasoline,30,39,264,8,8
+Volkswagen,Beetle,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,23,29,349,6,6
+Volkswagen,Beetle,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,33,322,6,6
+Volkswagen,Beetle Convertible,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,33,322,6,6
+Volkswagen,Beetle Dune,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,31,331,6,6
+Volkswagen,Beetle Dune Convertible,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,24,31,331,6,6
+Volkswagen,CC,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Premium,Premium Gasoline,22,31,349,5,5
+Volkswagen,CC 4motion,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.6,Regular,Regular Gasoline,17,25,446,4,4
+Volkswagen,Golf,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,25,35,309,7,7
+Volkswagen,Golf,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.8,Regular,Regular Gasoline,25,36,305,7,7
+Volkswagen,Golf Alltrack,Small Station Wagons,All-Wheel Drive,Auto(AM-S6),4,1.8,Regular,Regular Gasoline,22,30,354,5,5
+Volkswagen,Golf Alltrack,Small Station Wagons,All-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,22,32,347,6,6
+Volkswagen,Golf R,Compact Cars,All-Wheel Drive,Auto(AM-S6),4,2.0,Premium,Premium Gasoline,23,30,347,5,5
+Volkswagen,Golf R,Compact Cars,All-Wheel Drive,Manual 6-Speed,4,2.0,Premium,Premium Gasoline,22,31,354,5,5
+Volkswagen,Golf SportWagen,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,25,34,309,7,7
+Volkswagen,Golf SportWagen,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4,1.8,Regular,Regular Gasoline,25,35,313,6,6
+Volkswagen,Golf SportWagen 4motion,Small Station Wagons,All-Wheel Drive,Auto(AM-S6),4,1.8,Regular,Regular Gasoline,22,30,354,5,5
+Volkswagen,Golf SportWagen 4motion,Small Station Wagons,All-Wheel Drive,Manual 6-Speed,4,1.8,Regular,Regular Gasoline,22,32,347,6,6
+Volkswagen,GTI,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,24,32,325,6,6
+Volkswagen,GTI,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,24,34,319,6,6
+Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2.0,Regular,Regular Gasoline,24,33,326,6,6
+Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.4,Regular,Regular Gasoline,28,38,282,7,7
+Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,25,35,311,7,7
+Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,Regular,Regular Gasoline,28,40,271,8,8
+Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.0,Regular,Regular Gasoline,23,33,335,6,6
+Volkswagen,Passat,Midsize Cars,Front-Wheel Drive,Auto(AM-S6),6,3.6,Regular,Regular Gasoline,20,28,390,5,5
+Volkswagen,Passat,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,1.8,Regular,Regular Gasoline,23,34,329,6,6
+Volkswagen,Tiguan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,20,24,412,5,5
+Volkswagen,Tiguan 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.0,Premium,Premium Gasoline,20,24,421,4,4
+Volkswagen,Touareg,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.6,Regular,Regular Gasoline,17,23,462,4,4
+Volvo,S60 AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,23,31,343,6,6
+Volvo,S60 AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,345,6,6
+Volvo,S60 CC AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,22,30,354,5,5
+Volvo,S60 FWD,Compact Cars,Front-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,25,36,302,7,7
+Volvo,S60 Inscription AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,23,31,343,6,6
+Volvo,S60 Inscription FWD,Compact Cars,Front-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,25,36,302,7,7
+Volvo,S60 Polestar AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,27,388,5,5
+Volvo,S90 AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,31,353,5,5
+Volvo,S90 FWD,Midsize Cars,Front-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,23,34,328,6,6
+Volvo,V60 AWD,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,32,345,6,6
+Volvo,V60 AWD,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,23,31,343,6,6
+Volvo,V60 CC AWD,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,22,30,354,5,5
+Volvo,V60 FWD,Small Station Wagons,Front-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,25,36,302,7,7
+Volvo,V60 Polestar AWD,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,27,388,5,5
+Volvo,V90 CC AWD,Midsize Station Wagons,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,30,355,5,5
+Volvo,XC60 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,27,395,5,5
+Volvo,XC60 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,20,29,384,5,5
+Volvo,XC60 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),4,2.0,Regular,Regular Gasoline,23,30,348,6,6
+Volvo,XC90 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,20,25,399,5,5
+Volvo,XC90 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,25,384,5,5
+Volvo,XC90 AWD PHEV,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2.0,Premium and Electricity,Premium Gasoline,24,27,238,7,8
+Volvo,XC90 FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),4,2.0,Premium,Premium Gasoline,22,26,373,5,5
